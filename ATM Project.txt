@@ -1,0 +1,13 @@
+In Java Project, we created an ATM program for representing ATM transection. In the ATM program, the user has to select an option
+from the options displayed on the screen. To deposit the money, we simply get the deposit amount from the user, add it to the total
+balance and print the successful message
+
+The operations used in our project are : 
+
+1. Withdraw Amount
+
+2. Deposit Amount
+
+3. Check Balance
+
+4. EXIT
